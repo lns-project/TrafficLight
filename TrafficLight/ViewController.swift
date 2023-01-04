@@ -19,6 +19,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        actionButton.layer.cornerRadius = 10
         
         redLightCircle.alpha = 0.3
         yellowLightCircle.alpha = 0.3
