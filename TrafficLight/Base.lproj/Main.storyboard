@@ -51,7 +51,7 @@
                                     <constraint firstAttribute="height" constant="37.5" id="mhG-bJ-WTE"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="filled" title="START"/>
+                                <buttonConfiguration key="configuration" style="filled" title="START" cornerStyle="medium"/>
                                 <connections>
                                     <action selector="changeColorTap:" destination="BYZ-38-t0r" eventType="touchUpInside" id="adY-5f-SwC"/>
                                 </connections>
